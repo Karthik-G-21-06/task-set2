@@ -63,6 +63,8 @@ void speedControl()
   delay(1000);
   digitalWrite(in1,LOW);   //turn off the motor
   digitalWrite(in2,LOW);
-}```
+}
+```
+
 ## tinker cad
 link to this project in  my tinker cad is [here](https://www.tinkercad.com/things/8f7RbHlGA3z-task-21/editel?sharecode=8WdNgfjV6O11YnyXvJ52aSbvD2Ze-mpxe1pMssSeRv0)
