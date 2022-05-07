@@ -12,7 +12,8 @@ A DC motor can be controlled in two ways,by controlling the speed and controllin
 Firstly the port enable 1&2 is connected to eneble the input pin 1 and 2.
 now the input pin 1 and 2 are connected to the arduino board.Input 1 and 2 directly enables output 1 and 2 respectively.Output 1 and 2 are connected to the motor terminals.
 ### code
-`int ena=9;     //settingup all the connection
+```sh
+int ena=9;     //settingup all the connection
 int in1=8;
 int in2=7; 
 
@@ -62,6 +63,6 @@ void speedControl()
   delay(1000);
   digitalWrite(in1,LOW);   //turn off the motor
   digitalWrite(in2,LOW);
-}`
+}```
 ## tinker cad
 link to this project in  my tinker cad is [here](https://www.tinkercad.com/things/8f7RbHlGA3z-task-21/editel?sharecode=8WdNgfjV6O11YnyXvJ52aSbvD2Ze-mpxe1pMssSeRv0)
