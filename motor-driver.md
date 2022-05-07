@@ -11,6 +11,8 @@ A DC motor can be controlled in two ways,by controlling the speed and controllin
 ### connection
 Firstly the port enable 1&2 is connected to eneble the input pin 1 and 2.
 now the input pin 1 and 2 are connected to the arduino board.Input 1 and 2 directly enables output 1 and 2 respectively.Output 1 and 2 are connected to the motor terminals.
+### circuit
+![alt text](./task 2(1).png)
 ### code
 ```sh
 int ena=9;     //settingup all the connection
