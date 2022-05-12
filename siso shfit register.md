@@ -1,8 +1,14 @@
 # SHIFT REGISTER
 ## siso shift register
 the siso shift register is one of the simplest of the four configurations as it has only theer connections,the serial input (SI) which determines what enters the left hand flip-flop, the serial output(SO) which is taken from the output of the right hand flip-flop and sequencing clock signal(Clk).
-
-[tinkercad](https://www.tinkercad.com/things/7OdAKUCK7iY-siso/editel?sharecode=SxUTl0fseJxzmrrw0QnUV7unl9UjDjyKR0dxnAEZi4o)
+## circuit
+![alt text](./siso)
+## schematic diagram
+![alt text](./siso sceme)
+## component list
+![alt text](./siso list)
+## link
+link to thinkercad is [here](https://www.tinkercad.com/things/7OdAKUCK7iY-siso/editel?sharecode=SxUTl0fseJxzmrrw0QnUV7unl9UjDjyKR0dxnAEZi4o)
 ## serial in parallel out(SIPO)
 In SIPO shift registers,the data is stored into the register serially while it is retrieved from it in parallel-fashion.
 
