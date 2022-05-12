@@ -4,11 +4,11 @@ the siso shift register is one of the simplest of the four configurations as it 
 ## circuit
 ![alt text](./SISO/siso.png)
 ## schematic diagram
-![alt text](./SISO/siso sceme.png)
+![alt text](./SISO/sisosceme.png)
 ## component list
-![alt text](./SISO/siso list.png)
+![alt text](./SISO/sisolist.png)
 ## link
-link to thinkercad is [here](https://www.tinkercad.com/things/7OdAKUCK7iY-siso/editel?sharecode=SxUTl0fseJxzmrrw0QnUV7unl9UjDjyKR0dxnAEZi4o)
+link to tinkercad is [here](https://www.tinkercad.com/things/7OdAKUCK7iY-siso/editel?sharecode=SxUTl0fseJxzmrrw0QnUV7unl9UjDjyKR0dxnAEZi4o)
 ## serial in parallel out(SIPO)
 In SIPO shift registers,the data is stored into the register serially while it is retrieved from it in parallel-fashion.
 
